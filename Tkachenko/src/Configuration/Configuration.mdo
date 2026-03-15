@@ -34,8 +34,10 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.йцук</constants>
   <catalogs>Catalog.КатегорииРасходов</catalogs>
   <catalogs>Catalog.УчастникиСемьи</catalogs>
+  <catalogs>Catalog.Справочник</catalogs>
   <documents>Document.Расход</documents>
   <documents>Document.Лимиты</documents>
   <documents>Document.ПополнениеСемейногоБюджета</documents>
